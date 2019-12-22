@@ -1,0 +1,19 @@
+$light-green-text: rgb(143, 173, 43);
+.navbar-campaign {
+  display: flex;
+  margin-top : 20px;
+  justify-content: flex-start;
+  .nav-link{
+    color: rgb(85, 103, 137);
+    font-weight: bold;
+    padding-bottom: 15px;
+    &:hover{
+      text-decoration: none;
+    }
+  }
+  .selectedLink .nav-link{
+      color: $light-green-text;
+      border-bottom: 2px solid $light-green-text;
+  }
+}
+

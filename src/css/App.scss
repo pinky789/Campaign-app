@@ -1,0 +1,19 @@
+.app-body{
+  padding-top: 40px;
+}
+
+.page-title{
+  font-weight: bold;
+  font-size: 48px;
+  color: rgb(43, 65, 108);
+}
+
+hr{
+  margin-top: 0px;
+}
+
+@media screen and (max-width: 992px) {
+  .page-title{
+    font-size: 36px;
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "name": "MORTAL COMBAT",
+      "region": "US",
+      "date": 1577194136000,
+      "price": {
+        "_1Month": 200,
+        "_6Months": 400,
+        "_1Year": 600
+      },
+      "csv": "Some CSV link for Whatsapp",
+      "report": "Some report link for Whatsapp",
+      "image_url": "Some image url of the campaign"
+    },
+    {
+      "name": "Shadow Fight 3",
+      "region": "US",
+      "date": 1577287726000,
+      "price": {
+        "_1Month": 100,
+        "_6Months": 400,
+        "_1Year": 800
+      },
+      "csv": "Some CSV link for Whatsapp",
+      "report": "Some report link for Whatsapp",
+      "image_url": "Some image url of the campaign"
+    },
+    {
+      "name": "Flow Free",
+      "region": "US",
+      "date": 1577114926000,
+      "price": {
+        "_1Month": 100,
+        "_6Months": 500,
+        "_1Year": 900
+      },
+      "csv": "Some CSV link for Whatsapp",
+      "report": "Some report link for Whatsapp",
+      "image_url": "Some image url of the campaign"
+    },
+    {
+      "name": "Auto Chess",
+      "region": "CA, FR",
+      "date": 1577078926000,
+      "price": {
+        "_1Month": 100,
+        "_6Months": 500,
+        "_1Year": 900
+      },
+      "csv": "Some CSV link for Whatsapp",
+      "report": "Some report link for Whatsapp",
+      "image_url": "Some image url of the campaign"
+    },
+    {
+      "name": "No Limits",
+      "region": "CA, FR",
+      "date": 1575867506000,
+      "price": {
+        "_1Month": 100,
+        "_6Months": 500,
+        "_1Year": 900
+      },
+      "csv": "Some CSV link for Whatsapp",
+      "report": "Some report link for Whatsapp",
+      "image_url": "Some image url of the campaign"
+    },
+    {
+      "name": "Super Jewels Quest",
+      "region": "CA, FR",
+      "date": 1576094307000,
+      "price": {
+        "_1Month": 100,
+        "_6Months": 500,
+        "_1Year": 900
+      },
+      "csv": "Some CSV link for Super Jewels Quest",
+      "report": "Some report link for Super Jewels Ques",
+      "image_url": "Some image url of the campaign"
+    },
+    {
+      "name": "Mole Slayer",
+      "region": "FR",
+      "date": 1576353507000,
+      "price": {
+        "_1Month": 100,
+        "_6Months": 500,
+        "_1Year": 900
+      },
+      "csv": "Some CSV link for Mole Slayer",
+      "report": "Some report link for Mole Slayer",
+      "image_url": "Some image url of the campaign"
+    },
+    {
+      "name": "Mancala Mix",
+      "region": "JP",
+      "date": 1577302944000,
+      "price": {
+        "_1Month": 100,
+        "_6Months": 500,
+        "_1Year": 900
+      },
+      "csv": "Some CSV link for Mancala Mix",
+      "report": "Some report link for Mancala Mix",
+      "image_url": "Some image url of the campaign"
+    },
+    {
+      "name": "Garena Free",
+      "region": "JP",
+      "date": 1576957344000,
+      "price": {
+        "_1Month": 100,
+        "_6Months": 500,
+        "_1Year": 900
+      },
+      "csv": "Some CSV link for Mancala Mix",
+      "report": "Some report link for Mancala Mix",
+      "image_url": "Some image url of the campaign"
+    }
+  ]
+}
+
+
