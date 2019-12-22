@@ -19,7 +19,7 @@ function AppLayout(){
             "Access-Control-Allow-Methods": 'HEAD, GET, POST, PUT, PATCH, DELETE'
         });
 
-        fetch("http://localhost:3004/data", {
+        fetch("http://localhost:3001/data", {
             headers: myHeaders,
 
         })
